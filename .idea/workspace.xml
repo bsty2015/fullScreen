@@ -1,94 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Projects/csharpproject/csharpproject/packages.config" />
-      <change type="DELETED" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea15/options/debugger.renderers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea15/options/editor.codeinsight.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea15/options/editor.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea15/options/images.support.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Library/Preferences/IntelliJIdea15/options/security.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/ApiDemos.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/ActivityTransition.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/ActivityTransitionDetails.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/AnimationCloning.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/AnimationLoading.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/AnimatorEvents.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/BouncingBalls.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/CustomEvaluator.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/LayoutAnimationByDefault.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/LayoutAnimationsHideShow.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/MultiPropertyAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/PathAnimations.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/ReversingAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/java/com/bsty/apidemos/apis/animation/ShapeHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/animator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/animator_set.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/color_animator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/object_animator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/object_animator_pvh.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/object_animator_pvh_kf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/anim/object_animator_pvh_kf_interpolated.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/ball.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/block.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/ducky.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/frantic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/jellies.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/logonodpi120.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/logonodpi160.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/logonodpi240.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/mug.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/pencil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/scissors.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable-nodpi/woot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/drawable/frog.gif" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/animation_cloning.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/animation_custom_evaluator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/animation_loading.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/animation_multi_property.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/animation_reversing.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/animator_events.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/bouncing_balls.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/image_block.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/image_details.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/layout_animations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/layout_animations_by_default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/layout_animations_hideshow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/layout/path_animations.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/GitHub/IceColorSun.github.io" afterPath="$USER_HOME$/GitHub/IceColorSun.github.io" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/gradle/wrapper/gradle-wrapper.jar" afterPath="$USER_HOME$/git/ApiDemos/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../algorithm/src/com/bsty/algorithm/QuickSort.java" afterPath="$PROJECT_DIR$/../algorithm/src/com/bsty/algorithm/QuickSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/javaobserver/CurrentConditionsDisplay.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/javaobserver/CurrentConditionsDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/javaobserver/WeatherData.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/javaobserver/WeatherData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observer/DisplayElement.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observer/DisplayElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observer/Observer.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observer/Observer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observer/Subject.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observer/Subject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observerimpl/CurrentConditionsDisplay.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observerimpl/CurrentConditionsDisplay.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observerimpl/WeatherData.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/observerimpl/WeatherData.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/test/WeatherStation.java" afterPath="$PROJECT_DIR$/../designPattern/src/com/bsty/designpattern/test/WeatherStation.java" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/diff.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/diff.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/git.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/vim_settings.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/vim_settings.xml" />
-      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/TinyHeart/js/main.js" afterPath="$USER_HOME$/WebstormProjects/TinyHeart/js/main.js" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/WebstormProjects/TinyHeart/src/tinyHeart.html" afterPath="$USER_HOME$/WebstormProjects/TinyHeart/src/tinyHeart.html" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/.idea/gradle.xml" afterPath="$USER_HOME$/git/ApiDemos/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/.idea/misc.xml" afterPath="$USER_HOME$/git/ApiDemos/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/app/build.gradle" afterPath="$USER_HOME$/git/ApiDemos/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/AndroidManifest.xml" afterPath="$USER_HOME$/git/ApiDemos/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/app/src/main/res/values/strings.xml" afterPath="$USER_HOME$/git/ApiDemos/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/build.gradle" afterPath="$USER_HOME$/git/ApiDemos/build.gradle" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/ApiDemos/gradle/wrapper/gradle-wrapper.properties" afterPath="$USER_HOME$/git/ApiDemos/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/git/CustomClock/app/src/main/res/values/atts.xml" afterPath="$USER_HOME$/git/CustomClock/app/src/main/res/values/atts.xml" />
-    </list>
-    <list id="75731f53-5473-4c63-a550-568531970ad7" name="Failed commit: Default" comment="add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/second.fxml" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list id="75731f53-5473-4c63-a550-568531970ad7" name="Failed commit: Default" comment="add" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -148,51 +62,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+            <state relative-caret-position="270">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="e#2126#2127#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stage.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/stage/Stage.java">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="1267" column="57" selection-start-line="1267" selection-start-column="57" selection-end-line="1267" selection-end-column="57" />
+            <state relative-caret-position="30">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KeyCombination.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCombination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="228" column="19" selection-start-line="228" selection-start-column="19" selection-end-line="228" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <file leaf-file-name="second.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/second.fxml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
             </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder">
+            <state />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -215,10 +142,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/Main.java" />
-        <option value="$PROJECT_DIR$/src/sample/second.fxml" />
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/second.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/style.css" />
+        <option value="$PROJECT_DIR$/src/sample/main.css" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
       </list>
     </option>
   </component>
@@ -229,9 +158,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
+    <option name="x" value="47" />
     <option name="y" value="23" />
-    <option name="width" value="1241" />
+    <option name="width" value="1233" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -265,12 +194,18 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="fullScreen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -283,10 +218,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fullScreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fullScreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,6 +253,15 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sample" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -519,6 +479,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -684,6 +645,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -745,36 +712,38 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1459152990244" duration="295000" />
       <workItem from="1459153359163" duration="4874000" />
+      <workItem from="1459171670388" duration="5942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6471000" />
+    <option name="totallyTimeSpent" value="12413000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1241" height="777" extended-state="6" />
-    <editor active="false" />
+    <frame x="47" y="23" width="1233" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24899274" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24853064" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24937028" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -785,6 +754,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -813,10 +783,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -842,71 +836,17 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/stage/Stage.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/stage/Stage.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCombination.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCode.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyEvent.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/layout/Region.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/beans/value/WritableObjectValue.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="1267" column="57" selection-start-line="1267" selection-start-column="57" selection-end-line="1267" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="228" column="19" selection-start-line="228" selection-start-column="19" selection-end-line="228" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="1181" column="33" selection-start-line="1181" selection-start-column="33" selection-end-line="1181" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="238" column="67" selection-start-line="238" selection-start-column="67" selection-end-line="238" selection-end-column="67" />
-          <folding>
-            <element signature="e#3551#3561#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/layout/Region.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="566" column="23" selection-start-line="566" selection-start-column="23" selection-end-line="566" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/beans/value/WritableObjectValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk8/Contents/Home/javafx-src.zip!/javafx/scene/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="1072" column="26" selection-start-line="1072" selection-start-column="26" selection-end-line="1072" selection-end-column="26" />
-          <folding>
-            <element signature="e#45776#45777#0" expanded="false" />
-            <element signature="e#45818#45819#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -924,10 +864,15 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/fool.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/second.fxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -935,12 +880,62 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/javafx-src.zip!/javafx/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="114">
+          <caret line="222" column="23" selection-start-line="222" selection-start-column="23" selection-end-line="222" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/javafx-src.zip!/javafx/stage/Stage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5642">
+          <caret line="853" column="22" selection-start-line="853" selection-start-column="22" selection-end-line="853" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="1175" column="25" selection-start-line="1175" selection-start-column="25" selection-end-line="1175" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/javafx-src.zip!/javafx/scene/input/KeyCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="228" column="19" selection-start-line="228" selection-start-column="19" selection-end-line="228" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2126#2127#0" expanded="true" />
           </folding>
         </state>
       </provider>

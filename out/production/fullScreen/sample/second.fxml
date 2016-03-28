@@ -3,4 +3,4 @@
 <?import javafx.scene.layout.Pane?>
 
 
-<Pane fx:id="secondPane" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller" />
+<Pane fx:id="secondPane" style="-fx-background-image: fool;" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller" />
